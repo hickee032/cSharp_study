@@ -1,2 +1,2 @@
 # CSharp_Study
-C# Persnal Study
+C# Study
