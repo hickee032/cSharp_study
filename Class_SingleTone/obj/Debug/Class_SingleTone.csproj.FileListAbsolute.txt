@@ -1,0 +1,8 @@
+E:\C#\CSharp\Class_SingleTone\bin\Debug\Class_SingleTone.exe.config
+E:\C#\CSharp\Class_SingleTone\bin\Debug\Class_SingleTone.exe
+E:\C#\CSharp\Class_SingleTone\bin\Debug\Class_SingleTone.pdb
+E:\C#\CSharp\Class_SingleTone\obj\Debug\Class_SingleTone.csproj.AssemblyReference.cache
+E:\C#\CSharp\Class_SingleTone\obj\Debug\Class_SingleTone.csproj.SuggestedBindingRedirects.cache
+E:\C#\CSharp\Class_SingleTone\obj\Debug\Class_SingleTone.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\Class_SingleTone\obj\Debug\Class_SingleTone.exe
+E:\C#\CSharp\Class_SingleTone\obj\Debug\Class_SingleTone.pdb
